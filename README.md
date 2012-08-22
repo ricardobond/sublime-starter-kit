@@ -56,6 +56,7 @@ instruções de uso já descritas anteriormente na seção de instalação de pl
 4. ZenCoding
 5. Prefixr
 6. LiveReload [Tutorial](http://shoogledesigns.com/blog/blog/2012/07/23/sublime-text-2-package-control-and-livereload/)
+7. AutoFileName [Repositório](https://github.com/BoundInCode/AutoFileName)
 
 ##Bundles recomendados
 ===
