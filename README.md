@@ -55,6 +55,7 @@ instruções de uso já descritas anteriormente na seção de instalação de pl
 3. SidebarEnhancements
 4. ZenCoding
 5. Prefixr
+6. LiveReload [Tutorial](http://shoogledesigns.com/blog/blog/2012/07/23/sublime-text-2-package-control-and-livereload/)
 
 ##Bundles recomendados
 ===
