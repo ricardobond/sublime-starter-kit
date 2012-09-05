@@ -35,7 +35,7 @@ O SublimeText 2 tem compatibilidade com todos os bundles do Textmate, abaixo ins
 
 ###1. Fazer um alias para abrir arquivos com o SublimeText via terminal
 
-	alias subl='open -a "/Applications/Sublime Text 2.app"'
+	sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
 
 ###2. Instalar Package Control
 Executar o comando abaixo dentro do `console` do Aplicativo `View > Show Console`
