@@ -67,3 +67,6 @@ instruções de uso já descritas anteriormente na seção de instalação de pl
 	
 ####HAML
 	git clone https://github.com/handcrafted/handcrafted-haml-textmate-bundle.git
+
+####SINATRA
+	git clone https://github.com/binaryseed/sinatra-tmbundle
